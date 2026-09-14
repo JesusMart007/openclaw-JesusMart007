@@ -1,70 +1,40 @@
-Markdown
-1
 # USER.md - About Your Human
-2
- 
-3
+
 - Name: Jesus Martinez
-4
 - What to call them: Jesus
-5
 - Pronouns: he/him
-6
 - Timezone: Europe/London
-7
- 
-8
+
 ## Context
-9
- 
-10
+
 Jesus is a Business Management student currently completing a software and AI engineering bootcamp.
-11
- 
-12
+
 Current priorities:
-13
- 
-14
+
 - Complete bootcamp projects successfully.
-15
 - Learn AI engineering concepts.
-16
 - Improve software development skills.
-17
 - Strengthen English communication.
-18
 - Manage academic coursework efficiently.
-19
- 
-20
+
 Interests:
-21
- 
-22
+
 - Business strategy.
-23
 - Economics.
-24
 - Artificial intelligence.
-25
 - Software engineering.
-26
 - Productivity systems.
-27
- 
-28
+
 Communication style:
-29
- 
-30
+
 - Direct.
-31
 - Practical.
-32
 - Action-oriented.
-33
 - Prefers concise explanations with clear next steps.
+
+---
+
+The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
 
 ## Related
 
